@@ -9,8 +9,8 @@ Include the following in your document.
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
 <script src="http://netdna.bootstrapcdn.com/bootstrap/3.0.3/js/bootstrap.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<link rel="stylesheet" href="main.css">
-<script src="script.js" charset="utf-8"></script>
+<link rel="stylesheet" href="easyBootstrapSelect.css">
+<script src="easyBootstrapSelect.js" charset="utf-8"></script>
 ```
 Next create a regular select.
 

@@ -15,7 +15,7 @@
 			})
 
 			customSelect = customSelect + '</ul></li></ul>'
-			$(this).before(customSelect)
+			$(this).after(customSelect)
 			$(this).hide()
 		})
 		setTimeout(function () {
